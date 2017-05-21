@@ -1,0 +1,14 @@
+{
+  "name": "serverlesspipa_sample",
+  "version": "1.0.0",
+  "description": "sample usage serverlesspipa",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Septiyan Andika",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-offline": "^3.14.0"
+  }
+}
