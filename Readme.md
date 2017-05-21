@@ -1,6 +1,6 @@
 # Serverless Pipa
 
-> ServerlessPipa is function to execute middleware for Serverless, inspired by pipajs (https://github.com/madebyais/pipajs).
+> ServerlessPipa is function to execute middleware (multiple function) for Serverless, inspired by pipajs (https://github.com/madebyais/pipajs).
 
 ### Why Serverless
 
@@ -9,7 +9,7 @@
 ### Installation
 
 ```bash
-$ npm install ServerlessPipa
+$ npm install serverlesspipa
 ```
 
 ### How-To

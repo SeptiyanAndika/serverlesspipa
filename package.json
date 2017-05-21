@@ -6,14 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Septiyan Andika <septiyan.andika@gmail.com> (http://http://andika.me)",
+  "author": "Septiyan Andika <septiyan.andika@gmail.com> (http://andika.me)",
   "license": "MIT",
   "dependencies": {
   },
   "keywords": [
-    "pipa",
     "serverless",
     "middleware",
+    "serverlesspipa",
+    "pipa",
+    "preroute"
   ],
   "repository": {
     "type": "git",
